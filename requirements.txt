@@ -1,0 +1,9 @@
+fastai==2.7.12
+fastcore==1.5.29
+ipython==8.13.2
+ipywidgets==8.0.6
+pandas==2.0.2
+psycopg2_binary==2.9.6
+python-dotenv==1.0.0
+scikit_learn==1.2.2
+torch==2.0.1
